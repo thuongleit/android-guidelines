@@ -1,4 +1,4 @@
-# Architecture and guidelines
+# Architecture guidelines
 
 ---- 
 # Introduction
@@ -45,7 +45,7 @@ needed
 # Implementation
 ## Architecture preview
 
-<img src="https://github.com/googlesamples/android-architecture/wiki/images/mvp.png" alt="Diagram"/>
+![Architecture Summary](images/android-architecture-summary.png)
 
 Note: in a MVP context, the term "view" is overloaded:
 
