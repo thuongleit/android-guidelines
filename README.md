@@ -1,6 +1,10 @@
 # Android Guidelines
 
-List of Android guidelines and conventions I used for my own Android projects.
+List of Android guidelines and conventions I use for my Android projects.
 
 * [Coding conventions](coding_conventions.md)
-
+* Android architecture guideline
+* Best practices
+  + Java best practices
+  + Resources best practices
+  + Android Studio best practices
