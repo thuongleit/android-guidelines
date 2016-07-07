@@ -1,4 +1,4 @@
-This guide is inspired and inherited from [ribot guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) with some my changes to apply to my projects.
+This guide is super inspired and inherited from [ribot guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) with a few changes to apply to my projects.
 
 # 1 Coding conventions
 ## 1.1 Android Resources naming
@@ -144,6 +144,7 @@ Unless the rest of resources, style names are written in __UpperCamelCase__.
 ## 1.2 Coding Conventions
 
 Need to fully read and understand three official coding conventions below:
+
 * [Code Conventions for the Java TM Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)  - published by Oracle.
 * [Code Style for Contributors](http://source.android.com/source/code-style.html) - published by Google.
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - published by Google.
@@ -275,7 +276,7 @@ static final String EXTRA_SURNAME = "EXTRA_SURNAME";
 static final String REQUEST_SIGN_IN = "REQUEST_SIGN_IN";
 ```
 
-## 1.2.4 Arguments in Fragments and Activities
+## 1.2.5 Arguments in Fragments and Activities
 
 When data is passed into an `Activity `or `Fragment` via an `Intent` or a `Bundle`, the keys for the different values __must__ follow the rules described in the section above.
 
@@ -311,6 +312,8 @@ __Note 2__: If we provide the methods described above, the keys for extras and a
 
 
 # 2 References
+
+
 * [Ribot Android Guidelines](https://github.com/ribot/android-guidelines)
 * [Code Conventions for the Java TM Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 * [Code Style for Contributors](http://source.android.com/source/code-style.html)
