@@ -9,3 +9,5 @@ List of Android guidelines and conventions I use for my Android projects.
   + Java best practices
   + Resources best practices
   + Android Studio best practices
+  + [Keep a CHANGELOG](http://keepachangelog.com)
+  + [git branching model](http://nvie.com/posts/a-successful-git-branching-model)
